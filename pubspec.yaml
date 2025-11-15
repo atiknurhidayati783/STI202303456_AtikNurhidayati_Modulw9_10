@@ -1,4 +1,4 @@
-name: modul_pratikum_w9_10
+name: data_playground
 description: "A Flutter project for Module W9–10 (Persistensi Data & CRUD)"
 publish_to: 'none'
 
@@ -43,3 +43,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/db/tasks.db
+
